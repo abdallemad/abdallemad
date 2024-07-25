@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React js, express
 - 💞️ I’m looking to collaborate on full Stack web application use Mern
 - 📫 How to reach me on my whatsapp:+20 1557646408
-- 😄 Pronouns: this could be personal
+- 😄 Pronouns: Web Dev
 - ⚡ Fun fact: if you try your best you cant lose!!
 
 <!---
