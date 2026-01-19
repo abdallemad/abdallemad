@@ -1,89 +1,31 @@
 # 👋 Hi, I'm Abdalla Emad
 
-🚀 **Full Stack Developer**  
-🎓 Faculty of Computers & Information – Mansoura University  
-🇪🇬 Based in Egypt  
+💻 Full Stack Developer  
+🎓 Computers & Information – Mansoura University  
+🇪🇬 Egypt  
 
-I'm a passionate **Full Stack Developer** who loves building real-world products from scratch — from database design to polished UI.  
-I focus on **clean architecture, scalability, and practical execution**, not just tutorials.
-
----
-
-## 🧠 About Me
-
-- 🧩 Full Stack Developer (Frontend + Backend)
-- 🏗️ I build complete products (MVP → Production)
-- 📚 Strong foundation in software engineering & database design
-- 🛠️ Experience with real dashboards, admin panels & learning platforms
-- 🎯 Currently focused on **execution, real projects & monetization**
-- 🌱 Always improving my **soft skills & project management**
+I build complete web applications — from database design to polished UI.  
+Focused on **real execution, clean architecture, and scalable products**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- React.js
-- Next.js (App Router)
-- TypeScript
-- Tailwind CSS
-- shadcn/ui
-- Framer Motion
-
-### Backend
-- Next.js Server Actions
-- Node.js
-- Prisma
-- MongoDB
-- PostgreSQL
-
-### Tools & Others
-- Git & GitHub
-- Figma (UI & wireframes)
-- ERD & Database Design
-- React Query
-- Clerk Authentication
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,prisma,mongodb,postgres,git,github,figma" />
+</p>
 
 ---
 
-## 🚀 Projects
-
-### 🎓 Learning Platform (Full Stack)
-A complete learning management system with:
-- Admin Dashboard
-- Course & Path Management
-- Lessons, Attachments & Exams
-- User Learning Experience
-- Marketing Pages
-
-> Built with **Next.js, Prisma, MongoDB, Tailwind, shadcn/ui**
+## 🎯 Currently
+- Building production-ready apps
+- Improving system design & project execution
+- Exploring AI-powered web features
 
 ---
 
-### 🛒 Bing Panda (E-Commerce)
-Customizable phone cases platform:
-- Product customization
-- Full-stack architecture
-- RPC-based server actions
+## 📫 Contact Me
+📱 WhatsApp: [Click here](https://wa.me/201XXXXXXXXX)
 
-> Built with **Next.js, React Query, Prisma**
-
----
-
-## 📈 What I'm Working On Now
-- Building production-ready projects
-- Improving system design & architecture
-- Transitioning from learning → earning 💰
-- Exploring AI-powered features in web apps
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [github.com/abdallemad](https://github.com/abdallemad)
-
----
-
-> **"Learning is good, execution is better."** ⚡  
-> Always aiming to build things that actually work.
+> _Learning is good. Execution is better._ ⚡
 
