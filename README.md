@@ -13,8 +13,6 @@ Focused on **real execution, clean architecture, and scalable products**.
 
 <p align="left">
    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,prisma,mongodb,postgres,git,github,figma" />
-  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40" />
 </p>
 
 ---
