@@ -25,7 +25,9 @@ Focused on **real execution, clean architecture, and scalable products**.
 ---
 
 ## 📫 Contact Me
-📱 WhatsApp: [Click here](https://wa.me/201XXXXXXXXX)
+📱 WhatsApp: [Click here](https://wa.me/201557646408)
+🖇️ LinkedIn: [Click here](https://www.linkedin.com/in/abdalla-emad-618b8b317)
+📧 Email: abdallaemad1.3.2.0.0.5@gmail.com
 
 > _Learning is good. Execution is better._ ⚡
 
